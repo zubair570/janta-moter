@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zubair570.github.io/janta-moter/sitemap.xml
